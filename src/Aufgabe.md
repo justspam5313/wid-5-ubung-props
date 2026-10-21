@@ -1,6 +1,6 @@
 ### Aufgabe 1 - den Code in Komponenten aufteilen
 
-In dieser Aufgabe teilst du den Code der App.js in mehrere Dateien auf, wobei einzelne Teile als neue "Komponenten" gespeichert werden. Komponenten bündelnd UI (HTML) und Funktionalität (JS) in einer gemeinsamen Funktion und bilden die Grundbausteine der App. Dadurch wird der Code zunächst einmal übersichtlicher.
+In dieser Aufgabe teilst du den Code der App.js in mehrere Dateien auf, wobei einzelne Teile als neue "Komponenten" gespeichert werden. Komponenten bündelnd UI (HTML) und Funktionalität (JS) in einer gemeinsamen Funktion und bilden die Grundbausteine der App. Dadurch wird der Code zunächst einmal übersichtlicher!
 
 #### 1.1 Footer-Komponente erstellen
 
